@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-ln&label=Profile%20views&color=0e75b6&style=flat" alt="victor-ln" /> </p>
 
 - 🔭 I’m currently working on **cub3d**
-- 🌱 I’m currently learning **C, PHP, Laravel, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **C/C++, PHP, Laravel, Javascript, HTML, CSS**
 - 👨‍💻 All of my projects are available at [https://github.com/victor-ln?tab=repositories](https://github.com/victor-ln?tab=repositories)
 - 💬 Ask me about **Anything, I will be happy to help**
 - 📫 How to reach me **vlima-nu@student.42sp.org.br**
