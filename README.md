@@ -1,7 +1,7 @@
 <h2 align="center">Hi ✌️, I'm Victor</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-ln&label=Profile%20views&color=0e75b6&style=flat" alt="victor-ln" /> </p>
 
-- 🔭 I’m currently working on **cub3d**
+- 🔭 I’m currently working on **CPP Modules**
 - 🌱 I’m currently learning **C/C++, PHP, Laravel, Javascript, HTML, CSS**
 - 👨‍💻 All of my projects are available at [https://github.com/victor-ln?tab=repositories](https://github.com/victor-ln?tab=repositories)
 - 💬 Ask me about **Anything, I will be happy to help**
