@@ -3,10 +3,8 @@
 - 🔭 I’m currently working on CPP Modules
 - 🌱 I’m currently learning C/C++, PHP, Laravel, Javascript, HTML, CSS
 - 💬 Ask me about Anything, I will be happy to help
-- 📫 How to reach me: https://www.linkedin.com/in/victor-nunes-601b79181/
+- 📫 Linkedin: <a href="https://br.linkedin.com/in/victor-nunes-dev?trk=profile-badge">Victor Nunes</a></div>
 - ✉️ Email: vlima-nu@student.42sp.org.br
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="victor-nunes-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/victor-nunes-dev?trk=profile-badge">Victor Nunes</a></div><br>
 
 💫 My favorites projects are
 
