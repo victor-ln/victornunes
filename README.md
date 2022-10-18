@@ -6,6 +6,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/victor-nunes-601b79181/
 - ✉️ Email: vlima-nu@student.42sp.org.br
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="victor-nunes-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/victor-nunes-dev?trk=profile-badge">Victor Nunes</a></div><br>
+
 💫 My favorites projects are
 
 - <a href="https://github.com/victor-ln/42-so_long"> so_long</a> - My first game, a 2D game using sprites.
