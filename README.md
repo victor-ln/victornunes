@@ -24,4 +24,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-ln&locale=en&layout=compact&theme=dracula&hide_border=true" alt="victor-ln"/>
 </p>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/victor-ln/victor-ln/blob/output/github-contribution-grid-snake.svg)
