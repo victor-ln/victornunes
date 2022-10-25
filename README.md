@@ -9,7 +9,7 @@
 💫 My favorites projects are
 
 - <a href="https://github.com/victor-ln/42-so_long"> so_long</a> - My first game, a 2D game using sprites.
-- <a href="https://github.com/adrianofaus/cub3D_ecole42"> cub3D</a>  - A game using RayCasting like Wolfenstein 3D.
+- <a href="https://github.com/victor-ln/42-cub3D"> cub3D</a>  - A game using RayCasting like Wolfenstein 3D.
 - <a href="https://github.com/victor-ln/42-push_swap"> push_swap</a> - A sorting algorithm.
 
 <h2 align="left">GitHub Statistics</h2>
