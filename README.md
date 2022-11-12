@@ -1,13 +1,13 @@
 <div align="center">
-  <h1 align="center">Hi ✌️, I'm Victor</h1>
+  <h1>Hi ✌️, I'm Victor</h1>
 
   <p>
-    <a href="https://br.linkedin.com/in/victor-nunes-dev"><img alt="LinkedIn link icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://br.linkedin.com/in/victor-nunes-dev" target="_blank"><img alt="LinkedIn link icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:vlima-nu@student.42sp.org.br"><img alt="Email contact link icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://discordapp.com/users/823694721024131092"><img alt="Discord profile link icon" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discordapp.com/users/823694721024131092" target="_blank"><img alt="Discord profile link icon" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   </p>
   <p>
-    🔭 I’m currently working on Curso-Web-Moderno and ft_containers <br />
+    🔭 I’m currently working on <a href="https://github.com/victor-ln/Curso-Web-Moderno" target="_blank">Curso-Web-Moderno</a> and  <a href="https://github.com/victor-ln/ft_containersft_containers" target="_blank">ft_containers</a> <br />
     💬 You can ask me about anything, I will be happy to help
   </p>
 
@@ -30,9 +30,9 @@
   
 ### 💫 My favorites projects are
   <p>
-    <a href="https://github.com/victor-ln/42-so_long"> so_long</a> - My first game, a 2D game using sprites. <br />
-    <a href="https://github.com/victor-ln/42-cub3D"> cub3D</a>  - A game using RayCasting like Wolfenstein 3D. <br />
-    <a href="https://github.com/victor-ln/42-push_swap"> push_swap</a> - A sorting algorithm.
+    <a href="https://github.com/victor-ln/42-so_long" target="_blank"> so_long</a> - My first game, a 2D game using sprites. <br />
+    <a href="https://github.com/victor-ln/42-cub3D" target="_blank"> cub3D</a>  - A game using RayCasting like Wolfenstein 3D. <br />
+    <a href="https://github.com/victor-ln/42-push_swap" target="_blank"> push_swap</a> - A sorting algorithm.
   </p>
 
   <h2>GitHub Statistics</h2>
