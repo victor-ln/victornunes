@@ -43,5 +43,3 @@
     <img src="https://img.shields.io/github/followers/victor-ln?color=green&amp;logo=github&amp;style=flat-square" style="max-width: 100%;">
   </p>
 </div>
-
-![snake gif](https://github.com/victor-ln/victor-ln/blob/output/github-contribution-grid-snake.svg)
